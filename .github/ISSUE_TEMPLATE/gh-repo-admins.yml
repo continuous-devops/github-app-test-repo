@@ -1,6 +1,6 @@
 name: List GitHub Admins of a Repository
-description: Retrieve a list of GitHub Administrators of a repository
-title: "List GitHub Admins of a Repo: [repo-name]"
+description: Retrieve a list of GitHub Administrators for the repository below
+title: "List GitHub Admins of a Repository"
 labels: [ admin-repo ]
 body:
   - type: input
